@@ -4,21 +4,21 @@ This repository contains an interactive Tableau dashboard created using the Supe
 
 **Key Highlights**-
 
--Sales Trends: Visualized regional, segment-wise, and category-wise sales performance to identify top-performing areas and products.
+- Sales Trends: Visualized regional, segment-wise, and category-wise sales performance to identify top-performing areas and products.
 
--Profit Analysis: Examined profit margins across regions and product categories, highlighting areas for improvement and growth opportunities.
+- Profit Analysis: Examined profit margins across regions and product categories, highlighting areas for improvement and growth opportunities.
 
--Customer Insights: Analyzed customer demographics and purchase behavior to segment and target valuable customer groups.
+- Customer Insights: Analyzed customer demographics and purchase behavior to segment and target valuable customer groups.
 
--Interactive Visuals: Implemented dynamic filters for year-wise, region-specific, and product-based analysis to provide actionable insights.
+- Interactive Visuals: Implemented dynamic filters for year-wise, region-specific, and product-based analysis to provide actionable insights.
 
--KPI Tracking: Designed key performance indicators (KPIs) to monitor overall business performance and profitability.
+- KPI Tracking: Designed key performance indicators (KPIs) to monitor overall business performance and profitability.
 
 **Tools Used**-
 
--Tableau: For creating the dashboard and visualizing the data.
+- Tableau: For creating the dashboard and visualizing the data.
 
--Dataset: Superstore dataset in Excel format for analysis.
+- Dataset: Superstore dataset in Excel format for analysis.
 
 **About**-
 
